@@ -1,4 +1,4 @@
-/* 4. Foreign Key  (Use to link the two tables together)
+/* 4. Foreign Key  (Use to link the two tables together /Its use to maintains the relational integrity)
 5. Check 
 6. Default
 7. Index
